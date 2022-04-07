@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../.gradle/caches/transforms-3/742fcde9f4e141836de4bc590d847843/transformed/appcompat-1.4.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/drawable/bg_blue.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/icon_1.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/item_loading.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/item_list.xml" value="0.35572916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
